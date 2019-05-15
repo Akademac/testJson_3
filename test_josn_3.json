@@ -2,21 +2,21 @@
 {
  "title": "Red Hot Chilli Peppers",
  "text": "Red Hot Chili Peppers are an American rock band formed in Los Angeles in 1983. The group's musical style primarily consists of rock with an emphasis on funk, as well as elements from other genres such as punk rock and psychedelic rock. When played live, their music incorporates elements of jam band due to the improvised nature of many of their performances. Currently, the band consists of founding members vocalist Anthony Kiedis and bassist Flea (Michael Peter Balzary), longtime drummer Chad Smith, and former touring guitarist Josh Klinghoffer. Red Hot Chili Peppers are one of the best-selling bands of all time with over 80 million records sold worldwide, they have been nominated for sixteen Grammy Awards, of which they have won six, and are the most successful band in alternative rock radio history, currently holding the records for most number-one singles (13), most cumulative weeks at number one (85) and most top-ten songs (25) on the Billboard Alternative Songs chart. In 2012, they were inducted into the Rock and Roll Hall of Fame.",
- "img": "Images/Topics/rhcp.jpg"
+ "img": "Images/Topics/rhcp.jpg",
  "views": "312",
  "likes": "54"
 },
 {
  "title": "Metallica",
  "text": "Metallica is an American heavy metal band. The band was formed in 1981 in Los Angeles, California by drummer Lars Ulrich and vocalist/guitarist James Hetfield, and has been based in San Francisco, California for most of its career. The group's fast tempos, instrumentals and aggressive musicianship made them one of the founding 'big four' bands of thrash metal, alongside Megadeth, Anthrax and Slayer. Metallica's current lineup comprises founding members Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo. Guitarist Dave Mustaine (who went on to form Megadeth) and bassists Ron McGovney, Cliff Burton and Jason Newsted are former members of the band.",
- "img": "Images/Topics/metallica.jpg"
+ "img": "Images/Topics/metallica.jpg",
  "views": "290",
  "likes": "37"
 },
 {
  "title": "Pantera",
  "text": "Pantera was an American heavy metal band from Arlington, Texas. The group was formed in 1981 by the Abbott brothers – drummer Vinnie Paul and guitarist Dimebag Darrell – along with lead vocalist Terry Glaze. Bassist Rex Brown joined the band the following year, replacing Tommy D. Bradford, who was the unofficial original. Having started as a glam metal band, Pantera released four albums during the 1980s. Looking for a new and heavier sound, Pantera replaced Glaze with Phil Anselmo in late 1986 and released Power Metal in 1988. With its fifth album, 1990's Cowboys from Hell, Pantera introduced the groove metal genre, while its 1992 follow-up Vulgar Display of Power exhibited an even heavier sound. Far Beyond Driven (1994) debuted at number one on the Billboard 200. In addition to their contribution to the groove metal genre, Pantera is credited (along with Sepultura and Machine Head) for being part of the second wave of thrash metal scene in the early-to-mid 1990s",
- "img": "Images/Topics/pantera.jpg"
+ "img": "Images/Topics/pantera.jpg",
  "views": "200",
  "likes": "28"
 },
@@ -24,20 +24,20 @@
  "title": "Slayer",
  "text": "Slayer is an American thrash metal band from Huntington Park, California. The band was formed in 1981 by guitarists Kerry King and Jeff Hanneman and vocalist and bassist Tom Araya and. Slayer's fast and aggressive musical style made them one of the founding 'big four' bands of thrash metal, alongside Metallica, Megadeth and Anthrax. Slayer's current lineup comprises King, Araya, drummer Paul Bostaph and guitarist Gary Holt. Hanneman and drummers Dave Lombardo and Jon Dette are former members of the band.",
  "views": "214",
- "img": "Images/Topics/slayer.jpg"
+ "img": "Images/Topics/slayer.jpg",
  "likes": "30"
 },
 {
  "title": "System of a down",
  "text": "System of a Down is an Armenian-American heavy metal band from Glendale, California, formed in 1994. The band currently consists of Serj Tankian (lead vocals, keyboards), Daron Malakian (vocals, guitar), Shavo Odadjian (bass, backing vocals), and John Dolmayan (drums). The band achieved commercial success with the release of five studio albums, three of which debuted at number one on the US Billboard 200. System of a Down has been nominated for four Grammy Awards, and their song 'B.Y.O.B.' won a Grammy Award for Best Hard Rock Performance in 2006. The band went on hiatus in 2006 and reunited in 2010; since then, they have performed live occasionally despite having not released any new material since the Mezmerize and Hypnotize albums in 2005. System of a Down sold over 40 million records worldwide, and their singles 'Aerials' and 'Hypnotize' have both reached number one on Billboard's Alternative Songs chart.",
  "views": "201",
- "img": "Images/Topics/soad.jpg"
+ "img": "Images/Topics/soad.jpg",
  "likes": "43"
 },
 {
  "title": "Iron Maiden",
  "text": "Iron Maiden are an English heavy metal band formed in Leyton, East London, in 1975 by bassist and primary songwriter Steve Harris. The band's discography has grown to thirty-eight albums, including sixteen studio albums, twelve live albums, four EPs, and seven compilations. Pioneers of the new wave of British heavy metal, Iron Maiden achieved initial success during the early 1980s. After several line-up changes, the band went on to release a series of UK and US platinum and gold albums, including 1982's The Number of the Beast, 1983's Piece of Mind, 1984's Powerslave, 1985's live release Live After Death, 1986's Somewhere in Time and 1988's Seventh Son of a Seventh Son. Since the return of lead vocalist Bruce Dickinson and guitarist Adrian Smith in 1999, the band have undergone a resurgence in popularity, with their 2010 studio offering, The Final Frontier, peaking at No. 1 in 28 countries and receiving widespread critical acclaim. Their sixteenth studio album, The Book of Souls, was released on 4 September 2015 to similar success. Despite little radio or television support, Iron Maiden are considered one of the most successful heavy metal bands in history, with The Sunday Times reporting in 2017 that the band have sold over 100 million copies of their albums worldwide. The band won the Ivor Novello Award for international achievement in 2002. As of October 2013, the band have played over 2000 live shows throughout their career. For 40 years the band have been supported by their famous mascot, 'Eddie', who has appeared on almost all of their album and single covers, as well as in their live shows.",
- "img": "Images/Topics/iron_maiden.jpg" 
+ "img": "Images/Topics/iron_maiden.jpg" ,
  "views": "512",
  "likes": "98"
 },
@@ -51,7 +51,7 @@
 {
  "title": "Beatles",
  "text": "The Beatles were an English rock band formed in Liverpool in 1960. The line-up of John Lennon, Paul McCartney, George Harrison and Ringo Starr led the band to be regarded as the foremost and most influential in history. With a sound rooted in skiffle, beat and 1950s rock and roll, the group were integral to the evolution of pop music into an art form, and to the development of the counterculture of the 1960s. They often incorporated elements of classical music, older pop forms, and unconventional recording techniques in innovative ways, and in later years experimented with a number of musical styles ranging from pop ballads and Indian music to psychedelia and hard rock. As they continued to draw influences from a variety of cultural sources, their musical and lyrical sophistication grew, and they came to be seen as embodying the era's sociocultural movements. Led by primary songwriters Lennon and McCartney, the Beatles built their reputation playing clubs in Liverpool and Hamburg over a three-year period from 1960, initially with Stuart Sutcliffe playing bass. The core trio of Lennon, McCartney and Harrison, who had been together since 1958, went through a succession of drummers, including Pete Best, before asking Starr to join them in 1962. Manager Brian Epstein moulded them into a professional act, and producer George Martin guided and developed their recordings, greatly expanding their domestic success after their first hit, 'Love Me Do', in late 1962. As their popularity grew into the intense fan frenzy dubbed 'Beatlemania', the band acquired the nickname 'the Fab Four', with Epstein, Martin and other members of the band's entourage sometimes given the informal title of 'fifth Beatle'.",
- "img": "Images/Topics/beatles.jpg"
+ "img": "Images/Topics/beatles.jpg",
  "views": "720",
  "likes": "200"
 }
