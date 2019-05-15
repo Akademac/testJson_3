@@ -54,5 +54,19 @@
  "img": "Images/Topics/beatles.jpg",
  "views": "720",
  "likes": "200"
+},
+ {
+ "title": "White Snake",
+ "text": "",
+ "views": "117",
+ "img": "Images/Topics/white_snake.jpg",
+ "likes": "24"
+},
+{
+ "title": "Pink Floyd",
+ "text": "",
+ "img": "Images/Topics/pink_floyd.jpg",
+ "views": "320",
+ "likes": "210"
 }
 ]
